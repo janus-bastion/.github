@@ -6,6 +6,8 @@
     <img src="https://github.com/janus-bastion/janus-frontend/blob/main/janus-website/janus-logo.png" alt="Janus Bastion Logo" width="80" height="80" />
   </a>
 
+  <p><em>bastion d'administration codé par 4 étudiants de l'école des Mines d'Alès</em></p>
+
   <h3 align="center">Janus-bastion</h3>
 
   <table align="center">
