@@ -67,8 +67,8 @@ Pour commencer à utiliser Janus-bastion localement, suivez ces étapes simples.
 
 ### Prerequisites
 
-- [Docker](https://www.docker.com/get-started)
-- [Docker Compose](https://docs.docker.com/compose/install/)
+* ![Docker]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white))  
+- [Docker Compose]([https://docs.docker.com/compose/install/](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white))
 
 ### Installation
 
