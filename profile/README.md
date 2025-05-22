@@ -1,6 +1,6 @@
 <a id="readme-top"></a> 
 
-## Janus bastion
+<h1><center>Janus bastion</center></h1>
 
 <div align="center">
   <a href="https://github.com/janus-bastion">
