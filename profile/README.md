@@ -86,12 +86,6 @@ N'oubliez pas de mettre une étoile au projet ! Merci encore !
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Top contributors:
-
-<a href="https://github.com/janus-bastion/janus-bastion/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=janus-bastion/janus-bastion" alt="contrib.rocks image" />
-</a>
-
 ---
 
 ## License
