@@ -1,6 +1,5 @@
 <a id="readme-top"></a> 
 
-<br />
 <div align="center">
   <a href="https://github.com/janus-bastion">
     <img src="https://github.com/janus-bastion/janus-frontend/blob/main/janus-website/janus-logo.png" alt="Janus Bastion Logo" width="160" height="160" />
