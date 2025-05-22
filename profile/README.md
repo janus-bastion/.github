@@ -1,11 +1,8 @@
 <a id="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![project_license][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+| Author | Author | Author | Author |
+| :-----: | :-----: | :-----: | :-----: |
+| [<img src="https://github.com/nathanmartel21.png?size=115" width=115><br><sub>@nathanmartel21</sub>](https://github.com/nathanmartel21) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/nathanmartel21) | [<img src="https://github.com/xeylou.png?size=115" width=115><br><sub>@xeylou</sub>](https://github.com/xeylou) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/xeylou) | [<img src="https://github.com/Djegger.png?size=115" width=115><br><sub>@Djegger</sub>](https://github.com/Djegger) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/Djegger) | [<img src="https://github.com/Warsgo.png?size=115" width=115><br><sub>@Warsgo</sub>](https://github.com/Warsgo) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/Warsgo)|   
 
 <br />
 <div align="center">
@@ -124,9 +121,7 @@ Lien du projet : [https://github.com/janus-bastion/janus-bastion](https://github
 
 
 
-| Author | Author | Author | Author |
-| :-----: | :-----: | :-----: | :-----: |
-| [<img src="https://github.com/nathanmartel21.png?size=115" width=115><br><sub>@nathanmartel21</sub>](https://github.com/nathanmartel21) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/nathanmartel21) | [<img src="https://github.com/xeylou.png?size=115" width=115><br><sub>@xeylou</sub>](https://github.com/xeylou) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/xeylou) | [<img src="https://github.com/Djegger.png?size=115" width=115><br><sub>@Djegger</sub>](https://github.com/Djegger) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/Djegger) | [<img src="https://github.com/Warsgo.png?size=115" width=115><br><sub>@Warsgo</sub>](https://github.com/Warsgo) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/Warsgo)|     
+  
 
 
 
