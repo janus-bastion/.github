@@ -20,7 +20,6 @@
   </p>
 </div>
 
-<details>
   ## Table of Contents
   <ol>
     <li>
@@ -43,7 +42,6 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
 
 ## About The Project
 
