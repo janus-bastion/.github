@@ -17,7 +17,7 @@ Please respect our [Code of Conduct](CODE_OF_CONDUCT.md) to keep the community w
 
 ## Team
 
-This project is maintained by four future engineers from [École des Mines d'Alès](ema.fr):
+This project is maintained by four future engineers from [École des Mines d'Alès](https://www.ema.fr) :
 
 - Baptiste Dauphin — baptiste.dauphin@mines-ales.org  
 - Alexis Déhu — alexis.dehu@mines-ales.org  
