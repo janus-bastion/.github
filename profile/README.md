@@ -1,13 +1,13 @@
 <a id="readme-top"></a> 
 
+# Janus bastion
+
 <div align="center">
   <a href="https://github.com/janus-bastion">
     <img src="https://github.com/janus-bastion/janus-frontend/blob/main/janus-website/janus-logo.png" alt="Janus Bastion Logo" width="160" height="160" />
   </a>
 
   <p><em>Bastion host coded by 4 students from the Mines d'Alès School</em></p>
-
-  <h3 align="center">Janus-bastion</h3>
 
   <table align="center">
     <tr>
