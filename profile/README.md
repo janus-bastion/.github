@@ -3,37 +3,80 @@
 <br />
 <div align="center">
   <a href="https://github.com/janus-bastion">
-    <img src="https://github.com/janus-bastion/janus-frontend/blob/main/janus-website/janus-logo.png" alt="Janus Bastion Logo" width="80" height="80">
+    <img src="https://github.com/janus-bastion/janus-frontend/blob/main/janus-website/janus-logo.png" alt="Janus Bastion Logo" width="80" height="80" />
   </a>
 
-<h3 align="center">Janus-bastion</h3>
+  <h3 align="center">Janus-bastion</h3>
 
-| Author | Author | Author | Author |
-| :-----: | :-----: | :-----: | :-----: |
-| [<img src="https://github.com/nathanmartel21.png?size=115" width=115><br><sub>@nathanmartel21</sub>](https://github.com/nathanmartel21) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/nathanmartel21) | [<img src="https://github.com/xeylou.png?size=115" width=115><br><sub>@xeylou</sub>](https://github.com/xeylou) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/xeylou) | [<img src="https://github.com/Djegger.png?size=115" width=115><br><sub>@Djegger</sub>](https://github.com/Djegger) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/Djegger) | [<img src="https://github.com/Warsgo.png?size=115" width=115><br><sub>@Warsgo</sub>](https://github.com/Warsgo) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/Warsgo)|    
+  <table align="center">
+    <tr>
+      <th>Author</th>
+      <th>Author</th>
+      <th>Author</th>
+      <th>Author</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/nathanmartel21">
+          <img src="https://github.com/nathanmartel21.png?size=115" width="115" alt="@nathanmartel21" /><br />
+          <sub>@nathanmartel21</sub>
+        </a>
+        <br /><br />
+        <a href="https://github.com/sponsors/nathanmartel21">
+          <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Sponsor nathanmartel21" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/xeylou">
+          <img src="https://github.com/xeylou.png?size=115" width="115" alt="@xeylou" /><br />
+          <sub>@xeylou</sub>
+        </a>
+        <br /><br />
+        <a href="https://github.com/sponsors/xeylou">
+          <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Sponsor xeylou" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Djegger">
+          <img src="https://github.com/Djegger.png?size=115" width="115" alt="@Djegger" /><br />
+          <sub>@Djegger</sub>
+        </a>
+        <br /><br />
+        <a href="https://github.com/sponsors/Djegger">
+          <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Sponsor Djegger" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Warsgo">
+          <img src="https://github.com/Warsgo.png?size=115" width="115" alt="@Warsgo" /><br />
+          <sub>@Warsgo</sub>
+        </a>
+        <br /><br />
+        <a href="https://github.com/sponsors/Warsgo">
+          <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Sponsor Warsgo" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  ## Table of Contents
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+---
+
+## Table of Contents
+
+1. [About The Project](#about-the-project)
+   - [Built With](#built-with)
+2. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+3. [Usage](#usage)
+4. [Roadmap](#roadmap)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
+8. [Acknowledgments](#acknowledgments)
+
+---
 
 ## About The Project
 
@@ -48,8 +91,9 @@ Le projet vise à fournir une interface sécurisée et robuste pour la gestion d
 * ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 * ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
 
 ## Getting Started
 
@@ -62,8 +106,7 @@ Pour commencer à utiliser Janus-bastion localement, suivez ces étapes simples.
 
 ### Installation
 
-Exécutez le script d'initialisation (assurez-vous que docker et docker compose sont installés). Le script télécharge et configure automatiquement le bastion pour vous.
- :
+Exécutez le script d'initialisation (assurez-vous que Docker et Docker Compose sont installés). Le script télécharge et configure automatiquement le bastion pour vous :
 
 ```sh
 curl -fsSL https://github.com/janus-bastion/janus-bootstrap/blob/main/janus-init.sh | sh
@@ -105,14 +148,3 @@ Pour toute question, suggestion ou contact général :
 Lien du projet : [https://github.com/janus-bastion/janus-bastion](https://github.com/janus-bastion/janus-bastion)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-  
-
-
-
-
-
-
-
