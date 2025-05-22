@@ -17,15 +17,6 @@
 
   <p align="center">
     Bastion d'administration open-source codé par 4 futurs ingénieurs de l'école des Mines D'Alès.
-    <br />
-    <a href="https://github.com/janus-bastion"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/janus-bastion">View Demo</a>
-    &middot;
-    <a href="https://github.com/janus-bastion/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/janus-bastion/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
