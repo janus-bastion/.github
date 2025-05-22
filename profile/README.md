@@ -6,7 +6,7 @@
     <img src="https://github.com/janus-bastion/janus-frontend/blob/main/janus-website/janus-logo.png" alt="Janus Bastion Logo" width="80" height="80" />
   </a>
 
-  <p><em>bastion d'administration codé par 4 étudiants de l'école des Mines d'Alès</em></p>
+  <p><em>Bastion host coded by 4 students from the Mines d'Alès School</em></p>
 
   <h3 align="center">Janus-bastion</h3>
 
@@ -82,8 +82,8 @@
 
 ## About The Project
 
-Janus-bastion est un bastion d'administration open-source développé par quatre futurs ingénieurs de l'école des Mines D'Alès.  
-Le projet vise à fournir une interface sécurisée et robuste pour la gestion d'environnements critiques, avec un code simple en HTML, CSS et PHP.
+Janus-bastion is an open-source administration bastion developed by four future engineers from the Mines d'Alès School.  
+The project aims to provide a secure and robust interface for managing critical environments, with simple code written in HTML, CSS, and PHP.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +99,7 @@ Le projet vise à fournir une interface sécurisée et robuste pour la gestion d
 
 ## Getting Started
 
-Pour commencer à utiliser Janus-bastion localement, suivez ces étapes simples.
+To start using Janus-bastion locally, follow these simple steps.
 
 ### Prerequisites
 
@@ -108,7 +108,7 @@ Pour commencer à utiliser Janus-bastion localement, suivez ces étapes simples.
 
 ### Installation
 
-Exécutez le script d'initialisation (assurez-vous que Docker et Docker Compose sont installés). Le script télécharge et configure automatiquement le bastion pour vous :
+Run the initialization script (make sure Docker and Docker Compose are installed). The script will automatically download and configure the bastion for you:
 
 ```sh
 curl -fsSL https://github.com/janus-bastion/janus-bootstrap/blob/main/janus-init.sh | sh
@@ -116,18 +116,18 @@ curl -fsSL https://github.com/janus-bastion/janus-bootstrap/blob/main/janus-init
 
 ## Contributing
 
-Les contributions sont ce qui fait de la communauté open-source un endroit incroyable pour apprendre, s’inspirer et créer.  
-Toute contribution que vous apportez est **grandement appréciée**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create.  
+Any contribution you make is **greatly appreciated**.
 
-Si vous avez une suggestion pour améliorer ce projet, veuillez forker le dépôt et créer une pull request.  
-Vous pouvez également ouvrir une issue avec le tag "enhancement".  
-N'oubliez pas de mettre une étoile au projet ! Merci encore !
+If you have a suggestion to improve this project, please fork the repository and create a pull request.  
+You can also open an issue with the tag "enhancement".  
+Don’t forget to star the project! Thanks again!
 
-1. Forkez le projet
-2. Créez votre branche de fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Commitez vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Poussez vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrez une Pull Request
+1. Fork the project  
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)  
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)  
+4. Push to the branch (`git push origin feature/AmazingFeature`)  
+5. Open a Pull Request  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,8 +135,8 @@ N'oubliez pas de mettre une étoile au projet ! Merci encore !
 
 ## License
 
-Ce projet est sous licence [MIT License](https://github.com/janus-bastion/.github/blob/main/LICENSE).  
-Voir le fichier `LICENSE` pour plus d’informations.
+This project is licensed under the [MIT License](https://github.com/janus-bastion/.github/blob/main/LICENSE).  
+See the `LICENSE` file for more details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,9 +144,9 @@ Voir le fichier `LICENSE` pour plus d’informations.
 
 ## Contact
 
-Pour toute question, suggestion ou contact général :  
+For any questions, suggestions, or general contact:  
 📧 imtjanus@gmail.com
 
-Lien du projet : [https://github.com/janus-bastion/janus-bastion](https://github.com/janus-bastion/janus-bastion)
+Project link: [https://github.com/janus-bastion/janus-bastion](https://github.com/janus-bastion/janus-bastion)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
