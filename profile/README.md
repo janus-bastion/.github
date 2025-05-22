@@ -37,8 +37,6 @@
 
 ## About The Project
 
-![Janus Bastion Screenshot][product-screenshot]
-
 Janus-bastion est un bastion d'administration open-source développé par quatre futurs ingénieurs de l'école des Mines D'Alès.  
 Le projet vise à fournir une interface sécurisée et robuste pour la gestion d'environnements critiques, avec un code simple en HTML, CSS et PHP.
 
