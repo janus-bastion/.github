@@ -54,9 +54,12 @@ Le projet vise à fournir une interface sécurisée et robuste pour la gestion d
 
 ### Built With
 
-* ![HTML][HTML-icon] HTML
-* ![CSS][CSS-icon] CSS
-* ![PHP][PHP-icon] PHP
+[* ![HTML][HTML-icon] HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
+[* ![PHP][PHP-icon] PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
