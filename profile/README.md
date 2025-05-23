@@ -70,12 +70,8 @@
 2. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
-3. [Usage](#usage)
-4. [Roadmap](#roadmap)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
-8. [Acknowledgments](#acknowledgments)
+3. [Contributing](#contributing)
+4. [License](#license)
 
 ---
 
