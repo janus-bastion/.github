@@ -1,0 +1,22 @@
+approvers:
+  - name: baptiste-dauphin
+    email: baptiste.dauphin@mines-ales.org
+  - name: alexis-dehu
+    email: alexis.dehu@mines-ales.org
+  - name: nathan-martel
+    email: nathan.martel@mines-ales.org
+  - name: ugo-moine
+    email: ugo.moine@mines-ales.org
+
+reviewers:
+  - name: baptiste-dauphin
+    email: baptiste.dauphin@mines-ales.org
+  - name: alexis-dehu
+    email: alexis.dehu@mines-ales.org
+  - name: nathan-martel
+    email: nathan.martel@mines-ales.org
+  - name: ugo-moine
+    email: ugo.moine@mines-ales.org
+
+# optional:
+# required_approvers: 2
