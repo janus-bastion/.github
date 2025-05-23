@@ -72,6 +72,7 @@
    - [Installation](#installation)
 3. [Contributing](#contributing)
 4. [License](#license)
+5. [Contact](#contact)
 
 ---
 
