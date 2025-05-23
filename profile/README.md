@@ -134,7 +134,7 @@ Don’t forget to star the project! Thanks again!
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/janus-bastion/.github/blob/main/LICENSE).  
+This project is licensed under the GNU General Public License v3.0 [GPL-3.0](https://github.com/janus-bastion/.github/blob/main/LICENSE).  
 See the `LICENSE` file for more details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -146,6 +146,6 @@ See the `LICENSE` file for more details.
 For any questions, suggestions, or general contact:  
 📧 imtjanus@gmail.com
 
-Project link: [https://github.com/janus-bastion/janus-bastion](https://github.com/janus-bastion/janus-bastion)
+Project link: [https://github.com/janus-bastion/janus-bastion](https://github.com/janus-bastion)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
