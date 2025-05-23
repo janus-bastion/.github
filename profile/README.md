@@ -143,6 +143,6 @@ See the `LICENSE` file for more details.
 For any questions, suggestions, or general contact:  
 📧 imtjanus@gmail.com
 
-Project link: [https://github.com/janus-bastion/janus-bastion](https://github.com/janus-bastion)
+Project link: [https://github.com/janus-bastion](https://github.com/janus-bastion)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
