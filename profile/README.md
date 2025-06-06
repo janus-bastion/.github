@@ -107,7 +107,7 @@ To start using Janus-bastion locally, follow these simple steps.
 Run the initialization script (make sure Docker and Docker Compose are installed). The script will automatically download and configure the bastion for you:
 
 ```sh
-curl -fsSL https://github.com/janus-bastion/janus-bootstrap/blob/main/janus-init.sh | sh
+curl -fsSL https://raw.githubusercontent.com/janus-bastion/janus-bootstrap/main/janus-init.sh | sh
 ```
 
 ## Contributing
